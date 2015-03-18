@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
+  "webJobName": "Full-Backup",
+  "startTime": "2015-03-20T19:00:00-08:00",
+  "endTime": null,
+  "jobRecurrenceFrequency": "Week",
+  "interval": 1,
+  "runMode": "Scheduled"
+}

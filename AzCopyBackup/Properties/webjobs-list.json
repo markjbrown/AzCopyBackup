@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../Full-Backup/Full-Backup.csproj"
+    },
+    {
+      "filePath": "../Incremental-Backup/Incremental-Backup.csproj"
+    },
+    {
+      "filePath": "../BackupExec/BackupExec.csproj"
+    }
+  ]
+}
