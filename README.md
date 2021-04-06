@@ -1,4 +1,6 @@
-# AzCopyBackup
+# AzCopyBackup (Archived)
+
+This repo is now archived.
 
 This solution is the source for my blog post on how to use Azure WebJobs and AzCopy to create an 
 automated backup service for Azure Storage objects. This example shows how to backup blobs but it 
